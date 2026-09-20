@@ -11,3 +11,16 @@ h1{
     margin-right: 300px;
     border-radius: 15px;
 }
+ul {
+    display:flex;
+    list-style: none;
+    display:ruby-base-container;
+    margin-right: 15px;
+     padding: 10px 20px;
+     gap: 20px;
+}
+ul li{
+    background-color: aqua;
+    margin-left: 10px;
+    margin-right: 10px;
+}
