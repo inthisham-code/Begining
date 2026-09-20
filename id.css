@@ -1,11 +1,12 @@
-.admission-no{
+.admission-no {
     padding: 50px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 22px;
     font-weight: bolder;
     height: 20px;
 }
-input{
+
+input {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bolder;
     height: 35px;
@@ -15,8 +16,47 @@ input{
     text-align: center;
     display: block;
 }
-.Main-heading{
-    margin-left: 85px;
+
+.Main-heading {
+    
     font-size: 8px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:#1F3E93;
+    color: white;
+    border-radius: 15px;
+    
+}
+
+.circle-photo {
+  width: 70px;        
+  height: 70px;        
+  border-radius: 50% !important;   
+  margin-left: 10px;
+  margin-top: 15px;
+
+}
+h2{
+    font-weight: bolder;
+    font-size: 25px;
+    margin-left: 90px;
+    color:white;
+    display: block;
+    margin-top: -35px;
+
+}
+
+.hi{
+    display: flex;
+    align-items: normal;
+}
+h1{
+    color:;
+    left: 15px;
+    margin-left: 10px;
+    margin-top: 25px;
+
+}
+h3{
+    margin-left: 90px;
+    margin-top: -10px;
 }
