@@ -1,0 +1,22 @@
+.admission-no{
+    padding: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    font-weight: bolder;
+    height: 20px;
+}
+input{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    height: 35px;
+    border-radius: 8px;
+    background-color: antiquewhite;
+    border-color: black;
+    text-align: center;
+    display: block;
+}
+.Main-heading{
+    margin-left: 85px;
+    font-size: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
