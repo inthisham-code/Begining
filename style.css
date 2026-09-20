@@ -1,6 +1,13 @@
 h1{
-
-    text-align: left;
+/* 1. Text features */
+    text-align: center;
+    justify-content: center;
     color: gold;
-    background-color: gold;
+/* 2. Shape features */
+    background-color:beige;
+    display: flex;
+    justify-content: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 15px;
 }
